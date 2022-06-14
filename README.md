@@ -9,3 +9,5 @@
 - Environnement : VS Code et serveur FTP (FileZilla)
 
 ### Projet 3
+- Langages utilisés : PHP (100 %)
+- Environnement : VS Code et serveur FTP (FileZilla)
