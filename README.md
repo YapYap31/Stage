@@ -7,3 +7,5 @@
 ### Projet 2
 - Langages utilisés : PHP (100 %) et WordPress
 - Environnement : VS Code et serveur FTP (FileZilla)
+
+### Projet 3
