@@ -1,4 +1,4 @@
-## Stage
+## Stage (2022)
 
 ### Projet 1
 - Langages utilisés : PHP (50 %), JavaScript/jQuery (20 %), Bootstrap (20 %), HTML/CSS (10 %)
