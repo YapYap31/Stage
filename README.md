@@ -11,7 +11,8 @@
 - Environnement : VS Code et serveur FTP (FileZilla)
 
 ### Projet 3 : Stargate
-- Langages utilisés : PHP (100 %)
+- Objectif : réaliser un script permettant de dupliquer un site WordPress d'un serveur à l'autre
+- Langages utilisés : PHP (80 %), SQL (10 %), HTML/CSS (10 %)
 - Environnement : VS Code et serveur FTP (FileZilla)
 
 ### Projet 4
