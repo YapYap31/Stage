@@ -6,6 +6,7 @@
 - Environnement : VS Code et serveur HTTP local (Xampp/Apache)
 
 ### Projet 2 : Bazooka
+- Objectif : adapter un plugin WordPress
 - Langages utilisés : PHP (100 %) et WordPress
 - Environnement : VS Code et serveur FTP (FileZilla)
 
