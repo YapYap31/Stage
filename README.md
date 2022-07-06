@@ -15,4 +15,5 @@
 - Langages utilisés : PHP (80 %), SQL (10 %), HTML/CSS (10 %)
 - Environnement : VS Code et serveur FTP (FileZilla)
 
-### Projet 4
+### Projets suivants
+- Objectif : réaliser des sites vitrines (Naturopathie, Naruto...) à l'aide de WordPress
