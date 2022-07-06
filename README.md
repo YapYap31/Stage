@@ -20,5 +20,5 @@
 
 | Builder       | Thème         | Plugins       | Hébergeur     |
 | ------------- | ------------- | ------------- | ------------- |
-| WPBakery      | GeneratePress | All in One Addons For WPBakery<br/> Gravity Forms | o2switch
+| - WPBakery    | - GeneratePress | - All in One Addons For WPBakery<br/> - Gravity Forms | - o2switch
                   
