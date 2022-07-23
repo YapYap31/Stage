@@ -16,9 +16,9 @@
 - Environnement : VS Code et serveur FTP (FileZilla)
 
 ### Projets suivants
-- Objectif : réaliser des sites vitrines (Naturopathie, Naruto...) à l'aide de WordPress
+- Objectif : réaliser des sites vitrines (Naturopathie, Naruto...) et d'e-commerce à l'aide de WordPress
 
 | Builder       | Thème         | Plugins       | Hébergeur     |
 | ------------- | ------------- | ------------- | ------------- |
-| - WPBakery    | - GeneratePress | - All in One Addons For WPBakery<br/> - Gravity Forms | - o2switch
+| - WPBakery    | - GeneratePress | - All in One Addons For WPBakery<br/> - Gravity Forms<br/> - WooCommerce | - o2switch
                   
