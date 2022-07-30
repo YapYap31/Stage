@@ -12,6 +12,9 @@
 - Langages utilisés : PHP (50 %), JavaScript/jQuery (20 %), Bootstrap (20 %), HTML/CSS (10 %)
 - Environnement : VS Code et serveur HTTP local (Xampp/Apache)
 
+<img src="https://user-images.githubusercontent.com/94051272/181900030-259bf5b3-b6e0-49df-9c70-09cda51ada37.jpg" width=60% height=60%>
+
+
 ### Projet 3 : Bazooka
 - Objectif : adapter un plugin WordPress
 - Langages utilisés : PHP (100 %) et WordPress
